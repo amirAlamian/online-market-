@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <%- include("../partials/head") %>
+</head>
+
+<body>
+    <%- include("../partials/navbar") %>
+    <%- include("../partials/images",{pic:info}) %>
+    <%- include("../partials/scripts") %>
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    Name:
+                </td>
+                <td>
+                   <%=  info.name%>  
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    color:
+                </td>
+                <td>
+                    <%=  info.color%>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    size:
+                </td>
+                <td>
+                    <%=  info.size%>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    material:
+                </td>
+                <td>
+                    <%=  info.material%>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    price:
+                </td>
+                <td>
+                    <%=  info.price%>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>

@@ -1,2 +1,2 @@
-# online-market-
-a online market with express and ajax
+# online market page with express
+ creating a page that sell some sneakers with express

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <%- include("../partials/head") %>
+</head>
+
+<body>
+    <%- include("../partials/navbar") %>
+    <div class="d-flex  flex-row justify-content-start flex-wrap w-50  m-auto " style="padding-top: 100px;">
+        <p class="noproduct"></p>
+
+        <% for( let i = 0; i < info.length; i++ ) { %>
+        <%- include("../partials/cards",{info:info[i]}) %>
+        <% } %>
+
+        <%- include("../partials/scripts") %>
+    </div>
+</body>
+
+</html>

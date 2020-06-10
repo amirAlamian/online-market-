@@ -1,0 +1,82 @@
+[
+    {
+        "name":"nike new model",
+        "color":"white",
+        "size":"37-44",
+        "material":"linen,Leather",
+        "price":"60$",
+        "picSource":"1.jpeg",
+        "link":"/products/nikeNewModel",
+        "params":"nikeNewModel"
+    },
+    {
+        "name":"nike running ",
+        "color":"black-white",
+        "size":"37-44",
+        "material":"cotton",
+        "price":"70$",
+        "picSource":"2.jpg",
+        "link":"/products/nikeRunning",
+        "params":"nikeRunning"
+    },
+    {
+        "name":"nike zoom",
+        "color":"black",
+        "size":"37-44",
+        "material":"leather",
+        "price":"50$",
+        "picSource":"3.jpg",
+        "link":"/products/nikeZoom",
+        "params":"nikeZoom"
+    },
+    {
+        "name":"nike smart shoes",
+        "color":"black",
+        "size":"37-44",
+        "material":"cloth",
+        "price":"100$",
+        "picSource":"4.jpg",
+        "link":"/products/nikeSmartShoes",
+        "params":"nikeSmartShoes"
+    },
+    {
+        "name":"adidas old model",
+        "color":"white",
+        "size":"37-40",
+        "material":"cloth",
+        "price":"OFF-30$",
+        "picSource":"5.jpg",
+        "link":"/products/adidasOldModel",
+        "params":"adidasOldModel"
+    },
+    {
+        "name":"adidas men`s shoes",
+        "color":"white",
+        "size":"41-44",
+        "material":"linen",
+        "price":"50$",
+        "picSource":"7.jpg",
+        "link":"/products/adidasMen`sShoes",
+        "params":"adidasMen`sShoes"
+    },
+    {
+        "name":"adidas women`s shoes",
+        "color":"white",
+        "size":"37-40",
+        "material":"cloth",
+        "price":"50$",
+        "picSource":"6.jpg",
+        "link":"/products/adidasWomen`sShoes",
+        "params":"adidasWomen`sShoes"
+    },
+    {
+        "name":"adidas yeezy",
+        "color":"white",
+        "size":"37-44",
+        "material":"linen",
+        "price":"50$",
+        "picSource":"8.jpg",
+        "link":"/products/adidasYeezy",
+        "params":"adidasYeezy"
+    }
+]
